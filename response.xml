@@ -1,1 +1,61 @@
-<data>Mock data</data>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<author>Israk</author>
+<SortingInfo xmlns="http://schema.bpost.be/services/service/operational/MailItemSortingASMessages/v001">
+    <ItemCode>323212275300005564292050</ItemCode>
+    <LastUpdatedTimestamp>2024-10-23T07:12:46.166+02:00</LastUpdatedTimestamp>
+    <Announced>true</Announced>
+    <Direction>TO_ADDRESSEE</Direction>
+    <AccountId>122753</AccountId>
+    <ProductEan>2000000155234</ProductEan>
+    <Sender>
+        <Name>WIM LANGHMANS N A</Name>
+        <Address>
+            <Street1>RUIPENBROEKSTRAAT</Street1>
+            <StreetNumber>23</StreetNumber>
+            <PostalCode>2880</PostalCode>
+            <Municipality>BORNEM</Municipality>
+            <CountryCode>BE</CountryCode>
+            <Sanction>
+                <CountryCode>056</CountryCode>
+                <AreaType>C</AreaType>
+                <AreaId>1200712015</AreaId>
+                <StreetId>539469</StreetId>
+                <PhysicalPointId>2883401</PhysicalPointId>
+                <MailboxId>0</MailboxId>
+                <Code>0056C1200712015000053946900028834010000000000</Code>
+            </Sanction>
+        </Address>
+    </Sender>
+    <Addressee>
+        <Name>P A BRUSSELS X   AMAZON RETURNS</Name>
+        <Address>
+            <Street1>CHAUSSÉE DE VILVORDE</Street1>
+            <StreetNumber>233</StreetNumber>
+            <PostalCode>1099</PostalCode>
+            <Municipality>Bruxelles X</Municipality>
+            <CountryCode>BE</CountryCode>
+            <Sanction>
+                <CountryCode>056</CountryCode>
+                <AreaType>C</AreaType>
+                <AreaId>2100421501</AreaId>
+                <StreetId>506358</StreetId>
+                <PhysicalPointId>9318565</PhysicalPointId>
+                <Code>0056C210042150100005063580009318565</Code>
+            </Sanction>
+        </Address>
+    </Addressee>
+    <AnnouncedWeightInGrams>750</AnnouncedWeightInGrams>
+    <CeraCustomer>true</CeraCustomer>
+    <KnownInTrackAndTrace>true</KnownInTrackAndTrace>
+    <SenderAnnouncedMunicipality>BORNEM</SenderAnnouncedMunicipality>
+    <SenderAnnouncedStreetNumber>23</SenderAnnouncedStreetNumber>
+    <AddresseeAnnouncedPostalCode>1099</AddresseeAnnouncedPostalCode>
+    <SenderAnnouncedStreet>RUIPENBROEKSTRAAT</SenderAnnouncedStreet>
+    <SenderAnnouncedPostalCode>2880</SenderAnnouncedPostalCode>
+    <AddresseeAnnouncedStreet>CHAUSSÉE DE VILVORDE</AddresseeAnnouncedStreet>
+    <AddresseeAnnouncedMunicipality>Bruxelles X</AddresseeAnnouncedMunicipality>
+    <NumberOfIE15Events>0</NumberOfIE15Events>
+    <AddresseeAnnouncedStreetNumber>233</AddresseeAnnouncedStreetNumber>
+    <NumberOfIE1Events>0</NumberOfIE1Events>
+    <NumberOfTRIEvents>1</NumberOfTRIEvents>
+</SortingInfo>
